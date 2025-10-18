@@ -1,6 +1,6 @@
 import NavBar from "./components/ui/NavBar";
 import SecaoGaleria from "./components/ui/SecaoGaleria";
-import SecaoPersonagens from "./components/ui/SecaoPersonagens";
+// import SecaoPersonagens from "./components/ui/SecaoPersonagens";
 
 function App() {
   return (
